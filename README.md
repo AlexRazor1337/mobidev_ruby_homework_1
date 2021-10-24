@@ -9,12 +9,12 @@ To use shell script call it from the shell:
 sh script.sh
 ```
 
-Then write something to the console and script will do the same.
+Then write something to the console and press ```Enter```. Script will output the same text.
 
 To use ruby script:
 ```sh
 ruby script.rb
 ```
 
-This will output 42 to the console.  
+This will output ```42``` to the console.  
 **NOTE:** Ruby must be installed.
